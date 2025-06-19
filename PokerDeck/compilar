@@ -1,0 +1,5 @@
+#!/bin/sh
+
+gcc -Wall -Wshadow -Wvla -g -c main.c
+gcc -Wall -Wshadow -Wvla -g -c funciones.c
+
